@@ -16,4 +16,3 @@ This project focuses on exploratory data analysis (EDA) and statistical hypothes
 ## Files
 - claims.csv
 - cust_demographics.csv
-- Insurance Claims Case Study.pdf
