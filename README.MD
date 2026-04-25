@@ -1,18 +1,27 @@
-# Insurance Claims EDA & Hypothesis Testing
+# Insurance Claims Analysis 📊
 
-This project focuses on exploratory data analysis (EDA) and statistical hypothesis testing on insurance claims data.
+## 📌 Project Overview
+This project analyzes insurance claims data to uncover patterns in claim behavior, fraud detection, and customer segmentation.
 
-## Objectives
-- Understand claim patterns
-- Perform statistical testing
-- Extract business insights
+## 🎯 Objectives
+- Analyze claim trends over time
+- Detect fraudulent claims
+- Understand customer segments
+- Perform statistical hypothesis testing
 
-## Tools Used
-- Python
-- Pandas, NumPy
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy)
 - Matplotlib, Seaborn
-- SciPy
+- Scipy (Statistical Testing)
 
-## Files
-- claims.csv
-- cust_demographics.csv
+## 📊 Key Insights
+- No significant difference in claim amount across gender
+- No relationship between number of claims and claim amount
+- Significant increase in claim amount in recent year
+- Fraud patterns vary across age groups
+
+## 📁 Files
+- `Insurance_claims_Analysis.ipynb` → Complete analysis
+
+## 📌 Conclusion
+This project demonstrates end-to-end data analysis including data cleaning, EDA, visualization, and hypothesis testing.
