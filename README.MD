@@ -22,6 +22,12 @@ This project analyzes insurance claims data to uncover patterns in claim behavio
 
 ## 📁 Files
 - `Insurance_claims_Analysis.ipynb` → Complete analysis
+## 📊 Visualizations
 
+![Scatter Plot](images/scatter_chart.png)
+![Bar Chart](images/bar_chart.png)
+![Pie Chart](images/pie_chart.png)
+![Line Chart](images/linechart.png)
+![Faceted Chart](images/faceted_chart.png)
 ## 📌 Conclusion
 This project demonstrates end-to-end data analysis including data cleaning, EDA, visualization, and hypothesis testing.
